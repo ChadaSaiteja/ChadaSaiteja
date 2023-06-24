@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 ### This is Saiteja 👋
 ## About Me:
-Self learner
-Unveiling the Extraordinary within the Ordinary
+-Self learner
+-Unveiling the Extraordinary within the Ordinary
 
 
 ## 🌐 Socials:
