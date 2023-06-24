@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### This is Saiteja 👋
+# This is Saiteja 👋
 ## About Me:
 -Self learner
 -Unveiling the Extraordinary within the Ordinary
