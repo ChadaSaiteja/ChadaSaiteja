@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">This is Satya 👋</h1>
+<h1 align="center">This is SaiTeja 👋</h1>
 
 ## About Me:
 -Self learner
