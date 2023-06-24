@@ -29,6 +29,10 @@ Here are some ideas to get you started:
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![SprinBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
+
+![MSSQL](https://img.shields.io/badge/-MS_SQL-05122A?style=flat&logo=microsoftsqlserver)&nbsp;
+![Mongo DB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ChadaSaiteja&icon=0&color=0)](https://visitcount.itsvg.in)
