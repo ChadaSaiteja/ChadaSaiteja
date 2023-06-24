@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chada-saiteja/) 
-[![LeetCode Badge](https://img.shields.io/badge/LeetCode.svg?style=flat-square&logo=leetcode&logoColor=white&color=2EC866)](https://leetcode.com/saitejachada2000/)
+[![LeetCode Badge](https://img.shields.io/badge/LeetCode-brightgreen.svg?style=flat-square&logo=leetcode&logoColor=white&color=2EC866)](https://leetcode.com/saitejachada2000/)
 [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-5%20Stars-brightgreen.svg?style=flat-square&logo=hackerrank&logoColor=white&color=2EC866)](https://www.hackerrank.com/saiteja_chada201/)
 
 
