@@ -17,10 +17,13 @@ Here are some ideas to get you started:
 
 <h1 align="center">This is SaiTeja 👋</h1>
 
-## About Me:
--Self learner
--Unveiling the Extraordinary within the Ordinary
+---
 
+#### Backend Developer 
+
+- 🏢 I'm currently working full-time  at **Dhan AI**
+- 🌱 Learning more about and studying: **Open Source, DS Algorithms**
+- 📫 Reach me : saiteja.chada2000@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chada-saiteja/) 
