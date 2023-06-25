@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">This is SaiTeja 👋</h1>
+<h3 align="center">This is SaiTeja 👋</h3>
 
 ---
 
@@ -25,13 +25,13 @@ Here are some ideas to get you started:
 - 🌱 Learning more about and studying: **Open Source, DS Algorithms**
 - 📫 Reach me : saiteja.chada2000@gmail.com
 
-## 🌐 Socials:
+### 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chada-saiteja/) 
 [![LeetCode](https://img.shields.io/badge/LeetCode-black.svg?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/saitejachada2000/)
 [![Hackerrank Badge](https://img.shields.io/badge/Hackerrank-black.svg?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/saiteja_chada201/)
 
 
-## 💻 Tech Stack:
+### 💻 Tech Stack:
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C++&logoColor=A8B9CC)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
