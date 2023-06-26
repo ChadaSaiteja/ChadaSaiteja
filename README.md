@@ -1,7 +1,7 @@
 
 <img src="https://i.gifer.com/4I9G.gif" width="40" height="40" />
 
-![](https://i.gifer.com/4I9G.gif)
+![](https://github.com/ChadaSaiteja/ChadaSaiteja/blob/main/Mygif.mp4)
 
 <h3 align="center">This is SaiTeja 👋</h3>
 
