@@ -3,8 +3,9 @@
 </p>
 
 
-<h3 align="center">This is SaiTeja 👋</h3>
+<h3 align="center">This is Sai Teja 👋</h3>
 
+[![](https://visitcount.itsvg.in/api?id=ChadaSaiteja&icon=0&color=0)](https://visitcount.itsvg.in)
 ---
 
 #### Backend Developer 
@@ -34,6 +35,6 @@
 ![DSA](https://img.shields.io/badge/-DSA-05122A?style=flat&logo=dsa)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ChadaSaiteja&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
