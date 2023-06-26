@@ -1,7 +1,7 @@
+<p align="center">
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+</p>
 
-<img src="https://github.com/ChadaSaiteja/ChadaSaiteja/blob/main/Mygif.mp4" width="40" height="40" />
-
-![](https://github.com/ChadaSaiteja/ChadaSaiteja/blob/main/Mygif.mp4)
 
 <h3 align="center">This is SaiTeja 👋</h3>
 
