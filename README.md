@@ -15,9 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <img src="https://i.gifer.com/4I9G.gif" height="300"/>
-</p>
+![Alt Text](https://i.gifer.com/4I9G.gif)
+
 
 
 
