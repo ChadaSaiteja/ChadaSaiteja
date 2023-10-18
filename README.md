@@ -10,7 +10,7 @@
 
 #### Backend Developer 
 
-- 🏢 I'm currently working full-time  at **Dhan AI**
+- 🏢 I'm currently working at **Dhan AI**
 - 🌱 Learning more about and studying: **Open Source, DS Algorithms**
 - 📫 Reach me : saiteja.chada2000@gmail.com
 
